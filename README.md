@@ -1,5 +1,5 @@
 ## To run test
 
 ````
-gradle clean test aggregate
+gradlew clean test aggregate
 ````
